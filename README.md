@@ -25,3 +25,15 @@ A Python-based application that recommends personalized quotes based on your cur
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+## Folder Structure personalized-mood-quote-recommender/
+├── README.md
+├── LICENSE 
+├── .gitignore
+├── main.py
+├── utils/ 
+│ └── helpers.py
+└── data/
+└── quotes.json
