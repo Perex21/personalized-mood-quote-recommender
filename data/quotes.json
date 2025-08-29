@@ -1,0 +1,26 @@
+{
+  "happy": [
+    "Happiness is a journey, not a destination.",
+    "Smile, it increases your face value!",
+    "The purpose of our lives is to be happy.",
+    "Happiness is not something ready-made. It comes from your own actions."
+  ],
+  "sad": [
+    "Every storm runs out of rain.",
+    "Tough times never last, but tough people do.",
+    "This too shall pass.",
+    "Even the darkest night will end and the sun will rise."
+  ],
+  "motivated": [
+    "Push yourself, because no one else is going to do it for you.",
+    "Don’t watch the clock; do what it does. Keep going.",
+    "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "The harder you work for something, the greater you'll feel when you achieve it."
+  ],
+  "calm": [
+    "Peace comes from within. Do not seek it without.",
+    "The mind is everything. What you think you become.",
+    "Calm mind brings inner strength and self-confidence.",
+    "Silence is a source of great strength."
+  ]
+}
